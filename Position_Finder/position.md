@@ -4,3 +4,5 @@ Since the parity bits are meant to go in the positions of powers of two, which, 
 
 ## Example
 ![image](https://github.com/user-attachments/assets/9dc742fa-e0c9-42cf-9df1-f83612f2971f)
+
+<sub>Fig. 1 shows an example of where parity bits would go, denoted as P0, P1...</sub>
